@@ -1,0 +1,22 @@
+site_name: d-lec
+site_url: https://d-lec.github.io/
+nav:
+  - d-lec: index.md
+  - Documentation:
+    - Index: documentation/index.md
+    - Hardware: documentation/hardware.md
+    - Hive: documentation/hive.md
+    - Software: documentation/software.md
+    - Librarian: documentation/librarian.md
+  - Original Site: https://d-lev.com
+  - Don't Click This: http://wormy.rocks
+extra_css:
+  - theme.css
+theme:
+  name: terminal
+  features:
+      - navigation.top.cursor_animation.hide
+      - navigation.top.hide
+        #- navigation.side.hide
+      - navigation.side.indexes
+      - navigation.side.toc.hide
