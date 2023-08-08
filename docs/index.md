@@ -15,7 +15,7 @@ tiles:
 # Welcome to the D-Lev Engineering Collective!
 
 This is a website to document the D-Lev digital theremin.  
-More text will go here. Also probably pictures.
+More text will go here. It can probably be copied out of the "PRD" draft on Google Drive.
 
 ## How to update the site
 
