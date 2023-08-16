@@ -9,14 +9,15 @@ nav:
     - Software: documentation/software.md
     - Librarian: documentation/librarian.md
   - Original Site: https://d-lev.com
-  - Don't Click This: http://wormy.rocks
-extra_css:
-  - theme.css
+watch:
+  - terminal_custom
 theme:
   name: terminal
+  palette: dark_modified
+  custom_dir: terminal_custom
   features:
       - navigation.top.cursor_animation.hide
-      - navigation.top.hide
+        #- navigation.top.hide
         #- navigation.side.hide
       - navigation.side.indexes
       - navigation.side.toc.hide
