@@ -10,11 +10,11 @@
     --mono-font-stack: Menlo, Monaco, Lucida Console, Liberation Mono,
       DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace,
       serif;
-    --background-color: #222225;
+    --background-color: #3f2a4b;
     --page-width: 60em;
-    --font-color: #e8e9ed;
+    --font-color: #edede8;
     --invert-font-color: #222225;
-    --primary-color: #62c4ff;
+    --primary-color: #0c9696;
     --secondary-color: #a3abba;
     --tertiary-color: #a3abba;
     --error-color: #ff3c74;
