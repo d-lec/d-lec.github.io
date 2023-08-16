@@ -1,28 +1,8 @@
----
-show_tiles_first: true
-tiles:
-  - caption: 'Marla Goodman'
-    img_src: img/img1.jpg
-    alt_text: 'close up of fallen leaves.'
-  - caption: 'Gregoire Blanc'
-    img_src: img/img2.png
-    alt_text: 'close up of green moss on a log.'
-  - caption: 'Eli Silver'
-    img_src: img/img3.png
-    alt_text: 'overhead of fallen leaves.'
----
-
-# Welcome to the D-Lev Engineering Collective!
-
-This is a website to document the D-Lev digital theremin.  
-More text will go here. It can probably be copied out of the "PRD" draft on Google Drive.
-
-## How to update the site
-
-* install requirements: `pip install mkdocs; pip install mkdocs-terminal`
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-or... push live to github and let github actions take care of it. YOLO.
-
+- It's d_lightful  
+- It's d_licious  
+- It's d_lectable  
+- It's d_lerious  
+- It's d_lemma  
+- It's d_luxe  
+  
+- [It's d_lovely](https://www.youtube.com/watch?v=z2uiP0-VF78){:target="_blank"}

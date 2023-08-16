@@ -1,23 +1,35 @@
 site_name: d-lec
 site_url: https://d-lec.github.io/
+repo_url: https://github.com/d-lec/d-lec.github.io
+edit_uri_template: https://github.com/d-lec/d-lec.github.io/edit/main/docs/{path}
+site_author: Evan Kahn
+site_logo: ../img/logo_small.png
+copyright: 'd-lec, 2023'
 nav:
-  - d-lec: index.md
-  - Documentation:
-    - Index: documentation/index.md
-    - Hardware: documentation/hardware.md
-    - Hive: documentation/hive.md
-    - Software: documentation/software.md
-    - Librarian: documentation/librarian.md
-  - Original Site: https://d-lev.com
+  - About: about.md
+  - Media: media.md
+  - Build: build.md
+  - Contact: contact.md
+  - Links: links.md
 watch:
   - terminal_custom
+markdown_extensions:
+  - pymdownx.caret
+  - pymdownx.tilde
+  - pymdownx.mark
+  - attr_list
+plugins:
+  - macros:
+      modules:
+        - mkdocs-terminal:terminal.pluglets.tile_grid.main
 theme:
   name: terminal
   palette: dark_modified
   custom_dir: terminal_custom
   features:
       - navigation.top.cursor_animation.hide
-        #- navigation.top.hide
-        #- navigation.side.hide
+        #- revision.date
+      - navigation.side.hide
       - navigation.side.indexes
       - navigation.side.toc.hide
+      - navigation.top.search_button.hide
