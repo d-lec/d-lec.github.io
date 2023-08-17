@@ -28,8 +28,8 @@ theme:
   custom_dir: terminal_custom
   features:
       - navigation.top.cursor_animation.hide
-        #- revision.date
-      - navigation.side.hide
+      # - revision.date
+      # - navigation.side.hide
       - navigation.side.indexes
       - navigation.side.toc.hide
       - navigation.top.search_button.hide

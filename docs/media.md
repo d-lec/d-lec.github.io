@@ -1,4 +1,5 @@
 ---
+hide: side_nav
 show_tiles_inline: true
 tiles:
   - caption: 'Marla Goodman'

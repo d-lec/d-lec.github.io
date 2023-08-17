@@ -1,3 +1,6 @@
+---
+hide: side_nav
+---
 # Links  
 
 ## d-lec Links

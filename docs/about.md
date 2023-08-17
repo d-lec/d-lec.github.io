@@ -1,3 +1,7 @@
+---
+hide: side_nav
+---
+
 # About d-lec
 &nbsp;&nbsp;The theremin, an electronic musical instrument invented over one hundred years ago, played an important role in the history of modern music.  
 

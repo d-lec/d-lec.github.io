@@ -1,9 +1,13 @@
-- It's d_lightful  
-- It's d_licious  
-- It's d_lectable  
-- It's d_lerious  
-- It's d_lemma  
-- It's d_limit
-- It's d_luxe  
+---
+hide: side_nav
+---
+
+- It's d-lightful  
+- It's d-licious  
+- It's d-lectable  
+- It's d-lirious  
+- It's d-lemma  
+- It's d-limit
+- It's d-luxe  
   
-- [It's d_lovely](https://www.youtube.com/watch?v=z2uiP0-VF78){:target="_blank"}
+- [It's d-lovely](https://www.youtube.com/watch?v=z2uiP0-VF78){:target="_blank"}
