@@ -11,6 +11,11 @@ nav:
   - Build: build.md
   - Contact: contact.md
   - Links: links.md
+  - Hardware:
+    - Index: hardware.md
+  - Software:
+    - Index: software.md
+
 watch:
   - terminal_custom
 markdown_extensions:
