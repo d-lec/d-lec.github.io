@@ -8,13 +8,12 @@ copyright: 'd-lec, 2023'
 nav:
   - About: about.md
   - Media: media.md
-  - Build: build.md
+  - Docs: build.md
+  - Docs:
+    - Hardware: hardware.md
+    - Software: software.md
   - Contact: contact.md
   - Links: links.md
-  - Hardware:
-    - Index: hardware.md
-  - Software:
-    - Index: software.md
 
 watch:
   - terminal_custom
@@ -34,7 +33,6 @@ theme:
   features:
       - navigation.top.cursor_animation.hide
       # - revision.date
-      # - navigation.side.hide
-      - navigation.side.indexes
+      # - navigation.side.indexes
       - navigation.side.toc.hide
       - navigation.top.search_button.hide
