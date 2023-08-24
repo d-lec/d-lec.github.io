@@ -1,5 +1,9 @@
 ---
 hide: side_nav
+---
+<!--
+---
+hide: side_nav
 show_tiles_inline: true
 tiles:
   - caption: 'Marla Goodman'
@@ -14,3 +18,4 @@ tiles:
 # Media
 {{ tile_grid(page.meta) }}
 
+-->

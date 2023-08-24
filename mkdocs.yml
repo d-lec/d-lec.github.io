@@ -34,5 +34,5 @@ theme:
       - navigation.top.cursor_animation.hide
       # - revision.date
       # - navigation.side.indexes
-      - navigation.side.toc.hide
+      # - navigation.side.toc.hide
       - navigation.top.search_button.hide
